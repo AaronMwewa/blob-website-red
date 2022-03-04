@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg9979"
+   sodipodi:docname="blue3.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1158"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="0.57452426"
+     inkscape:cx="408.16379"
+     inkscape:cy="268.91815"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9979"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs9976" />
+  <g
+     id="layer1"
+     transform="matrix(0.02974374,0,0,0.03333191,54.257951,94.425678)">
+    <path
+       style="fill:#0066ff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -245.55099,1331.1448 c 0,0 -258.47472,-239.0891 -258.47472,-368.32646 0,-129.23737 25.84749,-96.92801 355.40274,-38.77122 C 180.9323,982.20394 394.17394,1014.5133 213.24164,736.65296 32.309339,458.79263 -135.69923,122.77549 71.080547,12.923736 277.86033,-96.928021 588.03,200.31791 833.58097,381.25021 c 245.55103,180.9323 542.79693,504.02572 717.26733,258.47474 174.4705,-245.55101 -290.784,-626.801214 323.0934,-891.7378 613.8775,-264.9366 962.8184,1053.28449 1324.6829,1163.13624 361.8648,109.85181 613.8775,-252.01285 859.4286,-394.17394 245.551,-142.1611 529.8731,-239.08912 536.335,103.38987 6.4619,342.47902 71.0806,1014.51328 71.0806,1014.51328 L 284.3222,1861.018 Z"
+       id="path12086" />
+  </g>
+</svg>
